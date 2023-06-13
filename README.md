@@ -1,5 +1,7 @@
 # Roll Dice
 
+A dice app in which you can make the die roll at the press of a button or by shaking your phone.
+
 ## Learning Points
 
 * How to clone an existing Xcode project from GitHub.
